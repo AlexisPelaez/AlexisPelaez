@@ -3,9 +3,6 @@
 ## Background
 I grew up in a relatively poor neighborhood in Chicago. It goes by the name of Little Village or South Lawndale. It is predominantly hispanic and that represents me. I am 100% Mexican by blood. Fun fact, despite growing up under a hispanic household, I never was able to learn the Spanish language. It has caused me problems in my family but I do my best to overcome them. I have lived here all my life and I plan to move someday!
 
-## Image
-![It's me!](assets/imageME.JPG)
-
 ## Positive Traits
 - Hardworking
 - Patient
@@ -22,6 +19,10 @@ I grew up in a relatively poor neighborhood in Chicago. It goes by the name of L
 
 ## Contact
 Email: pelaezalexis4864@gmail.com
+
+## Image
+![It's me!](assets/imageME.JPG)
+
 <!--
 **AlexisPelaez/AlexisPelaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
